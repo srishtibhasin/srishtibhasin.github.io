@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+layout: archive 
+
+title: Srishti Bhasin
+
+header_pages: 
+  - Publications
+  - Talks
+  - CV 
