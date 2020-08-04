@@ -194,7 +194,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: archive
+      layout: single
       author_profile: true
       read_time: false
       comments: false
