@@ -1,1 +1,3 @@
-About me
+layout: page
+title: About me 
+
