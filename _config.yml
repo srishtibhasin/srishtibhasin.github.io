@@ -20,21 +20,21 @@ title                    : "Srishti Bhasin's homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Srishti Bhasin"
-description              : "PhD Student working in the LHCb Collaboration at the University of Bristol and CERN."
+description              : "PhD Student in the LHCb Collaboration at the University of Bristol and CERN"
 url                      : "https://srishtibhasin.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "srishtibhasin/srishtibhasin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
+# masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+# words_per_minute         : 200
 
 # Site Author
 author:
   name             : "Srishti Bhasin"
   avatar           : "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student"
+  bio              : "PhD Student in the LHCb Collaboration at the University of Bristol and CERN"
   location         : "Bristol/London, UK"
   email            :
   links:
