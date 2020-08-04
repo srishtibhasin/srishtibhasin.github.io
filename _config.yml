@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
-
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 # layout: archive 
 
 title: Srishti Bhasin
