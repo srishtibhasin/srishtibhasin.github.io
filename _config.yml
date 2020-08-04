@@ -1,8 +1,16 @@
 theme: jekyll-theme-minimal
 
-layout: archive 
+# layout: archive 
 
 title: Srishti Bhasin
+
+email: "srishb@gmail.com"
+description: >- # this means to ignore newlines until "baseurl:"
+  PhD student
+# baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: srishtib
+github_username:  srishtibhasin
 
 header_pages: 
   - Publications
