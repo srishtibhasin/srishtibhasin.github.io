@@ -8,7 +8,7 @@ title: "Publications"
 ## First Observation of the decay $B^0 \rightarrow D^0 \overline{D}{}^0 K^+ \pi^-$, *LHCb Collaboration* 
 Preprint on *arXiv*, 2020 
 
-This paper presents the measurement of the branching fraction of an exciting and previously unobserved decay mode. The analysis made use of data collected by the [LHCb Experiment](http://lhcb-public.web.cern.ch/) from proton-proton collisions at the Large Hadron Collider between 2012 and 2016. Measurements of this decay will provide crucial input to anomalies which could point towards new physics processes beyond the Standard Model of particle physics. 
+This paper presents the measurement of the branching fraction of an exciting and previously unobserved decay mode. The analysis made use of data collected by the [LHCb Experiment](https://lhcb-public.web.cern.ch/) from proton-proton collisions at the Large Hadron Collider between 2012 and 2016. Measurements of this decay will provide crucial input to anomalies which could point towards new physics processes beyond the Standard Model of particle physics. 
 
 [Full Paper](https://arxiv.org/abs/2007.04280)
 
