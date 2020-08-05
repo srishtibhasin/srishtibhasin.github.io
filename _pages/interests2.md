@@ -1,8 +1,8 @@
 ---
-title: "Other Interests: Art"
-permalink: /interests2/
-intro: 
-  - excerpt: 'Art has been a hobby of mine since a young age. In recent years I have focussed on acrylic paintings of nature. Please enjoy some of my works below.'
+title: "Art"
+permalink: /interests/
+# intro: 
+#   - excerpt: 'Art has been a hobby of mine since a young age. In recent years I have focussed on acrylic paintings of nature. Please enjoy some of my works below.'
 gallery:
   - image_path: /assets/images/IMG_6951.JPG
     url: /assets/images/IMG_6951.JPG
@@ -22,6 +22,7 @@ gallery:
     title: "Red tree"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
+*Art has been a hobby of mine since a young age. In recent years I have focussed on acrylic paintings of nature. Please enjoy some of my works below.*
 
 {% include gallery id="gallery" layout="half" caption="" class="full" %}
