@@ -10,14 +10,14 @@ Preprint on *arXiv*, 2020
 
 This paper presents the measurement of the branching fraction of an exciting and previously unobserved decay mode. The analysis made use of data collected by the [LHCb Experiment](http://lhcb-public.web.cern.ch/) from proton-proton collisions at the Large Hadron Collider between 2012 and 2016. Measurements of this decay will provide crucial input to anomalies which could point towards new physics processes beyond the Standard Model of particle physics. 
 
-[arXiv:2007.04820](https://arxiv.org/abs/2007.04280)
+[Full Paper](https://arxiv.org/abs/2007.04280)
 
 ## Test-beam studies of a small-scale TORCH time-of-flight demonstrator, *S. Bhasin et al.*
 Published in  Nucl. Inst. & Meth. in Phys. Res. A **961**, 2020 
 
 This paper presents results of a test-beam campaign of the TORCH detector, a novel detector technology due to be installed in a future upgrade of the LHCb Experiment. The detector will allow improved identification of charged particles with cutting-edge timing and precision. 
 
-[doi:10.1016/j.nima.2020.163671.](https://www.sciencedirect.com/science/article/pii/S0168900220302394)
+[Full Paper](https://www.sciencedirect.com/science/article/pii/S0168900220302394)
 
 ## RISE Germany Internship: Application of Data Mining Methods on IceCube Event Reconstructions, *S. Bhasin and M. Borner* 
 Published as a Technical Report, 2016
