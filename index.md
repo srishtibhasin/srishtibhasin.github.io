@@ -15,4 +15,4 @@ This blue signal region in the figure below demonstrates the observation of even
 
 ![DDKpi_plot](/assets/images/DDKpi_plot.png)
 
-Please follow the menu to see my key [publications]({% link _pages/Publications.md}), [talks]({% link _pages/talks.md}), [CV]({% link _pages/CV.md}), and [other interests]({% link _pages/interests.md}). 
+Please follow the menu to see my key [publications]({% link _pages/Publications.md %}), [talks]({% link _pages/talks.md %}), [CV]({% link _pages/CV.md %}), and [other interests]({% link _pages/interests.md %}). 
