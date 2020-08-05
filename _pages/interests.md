@@ -5,7 +5,7 @@ permalink: /interests/
 # date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/IMG_4895.jpg
 #   actions:
 #     - label: "Download"
@@ -25,16 +25,10 @@ feature_row1:
 #     btn_class: "btn--primary"
   - image_path: /assets/images/IMG_6746.jpg
     alt: "Black tree"
-
 feature_row2:
   - image_path: assets/images/IMG_6876.JPG
     alt: "Keukenhof tulip"
-    # title: "Placeholder 1"
-    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
     caption: "Keukenhof, Netherlands"
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
   - image_path: /assets/images/IMG_4128.jpg
     alt: "Red tree"
 ---
