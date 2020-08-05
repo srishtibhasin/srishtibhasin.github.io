@@ -41,9 +41,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:srishb@gmail.com"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/srishti-bhasin/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -54,6 +54,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/srishti-bhasin/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
