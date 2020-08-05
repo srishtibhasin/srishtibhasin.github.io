@@ -15,14 +15,14 @@ permalink: /interests/
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row1:
-  - image_path: assets/images/IMG_6951.JPG
+  - image_path: /assets/images/IMG_6951.JPG
     alt: "Vondelpaark"
     image_caption: "Vondelpaark, Amsterdam"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/IMG_6746.jpg
     alt: "Black tree"
 feature_row2:
-  - image_path: assets/images/IMG_4128.JPG
+  - image_path: /assets/images/IMG_4128.JPG
     alt: "Keukenhof"
     image_caption: "Keukenhof, Netherlands"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
