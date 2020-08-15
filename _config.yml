@@ -33,7 +33,7 @@ repository               : "srishtibhasin/srishtibhasin.github.io" # GitHub user
 # Site Author
 author:
   name             : "Srishti Bhasin"
-  avatar           : "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student in the LHCb Collaboration at the University of Bristol and CERN"
   location         : "Bristol/London, UK"
   email            :
