@@ -6,20 +6,24 @@ permalink: /interests/
 gallery:
   - image_path: /assets/images/IMG_6951.JPG
     url: /assets/images/IMG_6951.JPG
-    alt: "Vondelpaark"
+    alt: "Vondelpaark 1"
     title: "Vondelpaark, Amsterdam"
   - image_path: /assets/images/IMG_6746.jpg
     url: /assets/images/IMG_6746.jpg
     alt: "Black tree"
     title: "Black tree"
-  - image_path: /assets/images/IMG_4128.JPG
-    url: /assets/images/IMG_4128.JPG
-    alt: "Keukenhof"
-    title: "Tulip at the Keukenhof, Netherlands"
+  - image_path: /assets/images/IMG_3419.JPG
+    url: /assets/images/IMG_3419.JPG
+    alt: "Vondelpaark 2"
+    title: "Vondelpaark, Amsterdam"
   - image_path: /assets/images/IMG_6876.jpg
     url: /assets/images/IMG_6876.jpg
     alt: "Red tree"
     title: "Red tree"
+  - image_path: /assets/images/IMG_4128.JPG
+    url: /assets/images/IMG_4128.JPG
+    alt: "Keukenhof"
+    title: "Tulip at the Keukenhof, Netherlands"
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
