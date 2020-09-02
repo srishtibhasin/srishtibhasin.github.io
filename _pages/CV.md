@@ -5,7 +5,7 @@ title: "CV"
 
 ## Education 
 - **PhD**: High Energy Physics, University of Bristol, 2021
-- **MSci**: Physics with Theoretical Physics, Imperial College London, 2017
+- **MSci**: First Class Honours, Physics with Theoretical Physics, Imperial College London, 2017
 - **A-Levels**: A\*A\*A\*A\*, St. Paul's Girls' School, 2013
 
 ## Skills
