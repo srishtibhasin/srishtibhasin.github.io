@@ -16,7 +16,7 @@ The LHCb Experiment is a highly specialised particle detector, using data collec
 
 My thesis focuses on the measurement of the decay $B^0 \rightarrow D^0 \overline{D}{}^0 K^+ \pi^-$, and I am the lead proponent of the first observation of this mode. Studying this decay has major implications for decays such as $B^0 \rightarrow K^{\ast0}\mu^+\mu^-$, which have shown tensions with the Standard Model of particle physics. Studying the structures in $B^0 \rightarrow D^0 \overline{D}{}^0 K^+ \pi^-$ will shed light on the theoretical uncertainties involved, and dictate the models that may be used to describe potential 'New Physics' processes. 
 
-In order to make a measurement of this decay, a number of data mining methods are used to extract the interesting signal out of "noise", ie. the multitude of other events seen by the detector. For example, in this analysis I use an optimised neural network to classify signal from the so-called combinatorial background. This blue signal region in the figure below demonstrates the observation of events corresponding to $B^0 \rightarrow D^0 \overline{D}{}^0 K^+ \pi^-$. [1]({% link _pages/Publications.md %})
+In order to make a measurement of this decay, a number of data mining methods are used to extract the interesting signal out of "noise", ie. the multitude of other events seen by the detector. For example, in this analysis I use an optimised neural network to classify signal from the so-called combinatorial background. This blue signal region in the figure below demonstrates the observation of events corresponding to $B^0 \rightarrow D^0 \overline{D}{}^0 K^+ \pi^-$ [[1]]({% link _pages/Publications.md %}).
 
 ![DDKpi_plot](/assets/images/DDKpi_plot.png)
 
