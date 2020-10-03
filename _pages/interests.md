@@ -8,6 +8,10 @@ gallery:
     url: /assets/images/IMG_6951.JPG
     alt: "Vondelpaark 1"
     title: "Vondelpaark, Amsterdam"
+  - image_path: /assets/images/IMG_5507.JPG
+    url: /assets/images/IMG_6951.JPG
+    alt: "Tallinn"
+    title: "Sunset in Tallinn, Estonia"
   - image_path: /assets/images/IMG_6746.jpg
     url: /assets/images/IMG_6746.jpg
     alt: "Black tree"
