@@ -7,7 +7,7 @@ author_profile: true
 title: "About me"
 ---
 
-I am a Particle Physics PhD student in the [LHCb Collaboration](https://lhcb-public.web.cern.ch/) at CERN, based in the University of Bristol. My research experience includes extensive programming, statistical analyses and machine learning. 
+I am a Data Scientist at [Faculty](https://faculty.ai/) working in the Government team to make AI real. I previously completed my PhD in Particle Physics in the [LHCb Collaboration](https://lhcb-public.web.cern.ch/) at CERN, based in the University of Bristol. My research experience includes extensive programming, statistical analyses and machine learning. 
 
 See below for details on my PhD and other projects. Please also follow the menu to see my key [publications]({% link _pages/Publications.md %}), [talks]({% link _pages/talks.md %}), [CV]({% link _pages/CV.md %}), and [other interests]({% link _pages/interests.md %}). 
 
