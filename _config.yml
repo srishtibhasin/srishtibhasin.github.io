@@ -20,7 +20,7 @@ title                    : "Srishti Bhasin's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Srishti Bhasin"
-description              : "PhD Student in the LHCb Collaboration at the University of Bristol and CERN"
+description              : "Data Scientist at Faculty AI and Particle Physics PhD"
 url                      : "https://srishtibhasin.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "srishtibhasin/srishtibhasin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
